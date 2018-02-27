@@ -1,5 +1,5 @@
 box: 
-  id: node:latest
+  id: nodesource/trusty
   ports: 
     - "8080"
     
