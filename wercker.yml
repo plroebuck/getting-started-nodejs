@@ -1,5 +1,5 @@
 box: 
-  id: nodesource/trusty
+  id: nodesource/trusty:carbon
   ports: 
     - "8080"
     
